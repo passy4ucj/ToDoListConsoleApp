@@ -1,0 +1,6 @@
+c:\users\pascal\documents\visual studio 2017\Projects\Challenge\Challenge\bin\Debug\Challenge.exe.config
+c:\users\pascal\documents\visual studio 2017\Projects\Challenge\Challenge\bin\Debug\Challenge.exe
+c:\users\pascal\documents\visual studio 2017\Projects\Challenge\Challenge\bin\Debug\Challenge.pdb
+c:\users\pascal\documents\visual studio 2017\Projects\Challenge\Challenge\obj\Debug\Challenge.csprojResolveAssemblyReference.cache
+c:\users\pascal\documents\visual studio 2017\Projects\Challenge\Challenge\obj\Debug\Challenge.exe
+c:\users\pascal\documents\visual studio 2017\Projects\Challenge\Challenge\obj\Debug\Challenge.pdb
